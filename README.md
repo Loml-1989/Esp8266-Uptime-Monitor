@@ -125,6 +125,8 @@ The firmware supports simple serial commands for debugging and control.
 | ip      | Prints the current IP address      |
 | check   | Triggers an immediate uptime check |
 
+![Web dashboard](img/serial_output.png)
+
 ---
 ## Persistent Storage
 
