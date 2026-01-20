@@ -163,4 +163,4 @@ If you test or improve the LED functionality contributions are welcome.
 
 ---
 
-btw i don't have commits because i have md other public repo but i had acidentally pushed my private info in it so i had to take it down.
+btw i don't have commits because i had md other public repo but i had accidentally pushed my private info in it so i had to take it down.
